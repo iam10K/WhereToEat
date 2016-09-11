@@ -1,0 +1,6 @@
+{
+  "name": "Wheretoeat",
+  "tagline": "WhereToEat support website.",
+  "body": "### Welcome to Where To Eat support.\r\nFind help here for any frequently asked questions or ask a question [here](https://github.com/iam10K/WhereToEat/issues/new).\r\n\r\n### FAQs\r\n\r\n# How do I use a manual location?\r\nFollow these steps.\r\n1. Go to the settings page.\r\n2. Turn the manual location switch to on (should be mostly red).\r\n3. Enter a manual location in the text box. (format: City, State)\r\n\r\n# How do I find a new random restaurant?\r\nClick the Find button on the top toolbar.\r\n\r\n# Can I set a distance?\r\nYes, in the settings page change the slider to a desired maximum distance.\r\n\r\n# Where does the restaurant data come from?\r\nWhere to Eat uses Yelp API to find and display info about restaurants near the user.\r\n\r\n# No restaurants are found around me. What do I do?\r\nRecommended steps to take are:\r\n1. Check that you have location services enabled.\r\n2. If using manual location, verify a location is entered.\r\n3. Click the find button again.\r\n4. Verify you can connect to the internet.\r\n5. Lastly, report a problem [here](https://github.com/iam10K/WhereToEat/issues/new).\r\n\r\n\r\n### Authors and Contributors\r\nTyler Encke @iam10k\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
